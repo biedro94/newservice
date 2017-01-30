@@ -1,0 +1,132 @@
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\ApplicationInsights.config
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\roslyn\csc.exe
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\roslyn\vbc.exe
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\roslyn\VBCSCompiler.exe
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\testbiedro.dll.config
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\testbiedro.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\testbiedro.pdb
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\Antlr3.Runtime.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\EntityFramework.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\EntityFramework.SqlServer.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\Microsoft.AI.Web.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\Newtonsoft.Json.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\System.Net.Http.Formatting.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\System.Web.Helpers.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\System.Web.Http.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\System.Web.Http.WebHost.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\System.Web.Mvc.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\System.Web.Optimization.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\System.Web.Razor.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\System.Web.WebPages.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\System.Web.WebPages.Razor.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\WebGrease.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\EntityFramework.xml
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\EntityFramework.SqlServer.xml
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\Microsoft.AI.Web.xml
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\Newtonsoft.Json.xml
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\System.Net.Http.Formatting.xml
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\System.Web.Helpers.xml
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\System.Web.Http.xml
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\System.Web.Http.WebHost.xml
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\System.Web.Mvc.xml
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\System.Web.Optimization.xml
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\System.Web.Razor.xml
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\System.Web.WebPages.xml
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\System.Web.WebPages.Razor.xml
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\bin\Antlr3.Runtime.pdb
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\obj\Debug\testbiedro.dll
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\obj\Debug\testbiedro.pdb
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\obj\Debug\testbiedro.Migrations.Init.resources
+C:\Users\pawel\Documents\Visual Studio 2015\Projects\testbiedro\testbiedro\obj\Debug\testbiedro.csproj.GenerateResource.Cache
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\ApplicationInsights.config
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\roslyn\csc.exe
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\roslyn\vbc.exe
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\roslyn\VBCSCompiler.exe
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\testbiedro.dll.config
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\testbiedro.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\testbiedro.pdb
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\Antlr3.Runtime.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\EntityFramework.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\EntityFramework.SqlServer.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\Microsoft.AI.Web.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\Newtonsoft.Json.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\System.Net.Http.Formatting.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\System.Web.Helpers.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\System.Web.Http.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\System.Web.Http.WebHost.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\System.Web.Mvc.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\System.Web.Optimization.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\System.Web.Razor.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\System.Web.WebPages.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\System.Web.WebPages.Razor.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\WebGrease.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\EntityFramework.xml
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\EntityFramework.SqlServer.xml
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\Microsoft.AI.Web.xml
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\Newtonsoft.Json.xml
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\System.Net.Http.Formatting.xml
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\System.Web.Helpers.xml
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\System.Web.Http.xml
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\System.Web.Http.WebHost.xml
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\System.Web.Mvc.xml
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\System.Web.Optimization.xml
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\System.Web.Razor.xml
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\System.Web.WebPages.xml
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\System.Web.WebPages.Razor.xml
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\bin\Antlr3.Runtime.pdb
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\obj\Debug\testbiedro.Migrations.Init.resources
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\obj\Debug\testbiedro.csproj.GenerateResource.Cache
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\obj\Debug\testbiedro.dll
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\obj\Debug\testbiedro.pdb
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\obj\Debug\testbiedro.Migrations.dupa2.resources
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\obj\Debug\testbiedro.Migrations.dupa25.resources
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\obj\Debug\testbiedro.Migrations.dupa65.resources
+C:\Users\Damian\Downloads\testbiedro\testbiedro\testbiedro\obj\Debug\testbiedro.Migrations.dupa655.resources
