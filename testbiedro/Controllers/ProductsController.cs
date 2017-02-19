@@ -25,7 +25,6 @@ namespace testbiedro.Controllers
         }
 
         [HttpPost]
-        [Route("api/Order/{Client_Name}/{Table_number}/{Status}")]
         public int AddOrder(string Client_Name, int Table_number, int Status)
         {
 
