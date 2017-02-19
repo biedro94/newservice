@@ -218,7 +218,16 @@
     <Compile Include="Migrations\201701302325208_dupa655.Designer.cs">
       <DependentUpon>201701302325208_dupa655.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201702151538214_lols.cs" />
+    <Compile Include="Migrations\201702151538214_lols.Designer.cs">
+      <DependentUpon>201702151538214_lols.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201702151541247_lolo.cs" />
+    <Compile Include="Migrations\201702151541247_lolo.Designer.cs">
+      <DependentUpon>201702151541247_lolo.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Order.cs" />
     <Compile Include="Models\Product.cs" />
     <Compile Include="Models\testbiedroContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -291,6 +300,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201701302325208_dupa655.resx">
       <DependentUpon>201701302325208_dupa655.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201702151538214_lols.resx">
+      <DependentUpon>201702151538214_lols.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201702151541247_lolo.resx">
+      <DependentUpon>201702151541247_lolo.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

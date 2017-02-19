@@ -199,3 +199,5 @@ C:\Users\Damian\Documents\GitHub\newservice\testbiedro\obj\Debug\testbiedro.Migr
 C:\Users\Damian\Documents\GitHub\newservice\testbiedro\obj\Debug\testbiedro.csproj.GenerateResource.Cache
 C:\Users\Damian\Documents\GitHub\newservice\testbiedro\obj\Debug\testbiedro.dll
 C:\Users\Damian\Documents\GitHub\newservice\testbiedro\obj\Debug\testbiedro.pdb
+C:\Users\Damian\Documents\GitHub\newservice\testbiedro\obj\Debug\testbiedro.Migrations.lols.resources
+C:\Users\Damian\Documents\GitHub\newservice\testbiedro\obj\Debug\testbiedro.Migrations.lolo.resources

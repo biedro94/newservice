@@ -20,5 +20,6 @@ namespace testbiedro.Models
         }
 
         public System.Data.Entity.DbSet<testbiedro.Models.Product> Products { get; set; }
+        public System.Data.Entity.DbSet<testbiedro.Models.Order> Order { get; set; }
     }
 }

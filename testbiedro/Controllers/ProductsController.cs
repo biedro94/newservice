@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Data;
 using System.Data.Entity;
 using System.Data.Entity.Infrastructure;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
@@ -21,6 +22,23 @@ namespace testbiedro.Controllers
         public IQueryable<Product> GetProducts()
         {
             return db.Products;
+        }
+
+        [HttpPost]
+        [Route("api/Order/{Client_Name}/{Table_number}/{Status}")]
+        public int AddOrder(string Client_Name, int Table_number, int Status)
+        {
+
+            string query = "INSERT INTO Orders(Client_Name,Table_Number,Order_Date,Status) VALUES(@p0,@p1,GetDate(),@p2)";
+
+            SqlParameter p0 = new SqlParameter("p0", Client_Name);
+            SqlParameter p1 = new SqlParameter("p1", Table_number);
+            SqlParameter p2 = new SqlParameter("p2", Status);
+
+            object[] parameter = new object[] { p0,p1,p2 };
+
+            int result = db.Database.ExecuteSqlCommand(query, parameter);
+            return result;
         }
 
         // GET: api/Products/5
